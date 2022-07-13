@@ -10,7 +10,7 @@ import {
 export default function Page({ story, preview }) {
   story = useStoryblokState(story, {
     resolveRelations: ['popular_articles.articles'],
-  }, true);
+  }, preview);
 
   return (
     <div >
