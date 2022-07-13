@@ -31,7 +31,7 @@ export default function Page({ story, preview }) {
   );
 }
 
-export async function getStaticProps({ params, context }) {
+export async function getStaticProps({ params, preview }) {
   let slug = params.slug ? params.slug.join("/") : "home";
 
   let sbParams = {
@@ -47,7 +47,7 @@ export async function getStaticProps({ params, context }) {
     props: {
       story: data ? data.story : false,
       key: data ? data.story.id : false,
-      preview: context.preview || false,
+      preview: preview || false,
     },
     revalidate: 3600,
   };
