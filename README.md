@@ -1,6 +1,6 @@
 # Next.js and Storyblok - CityJS Singapore
 
-This repository is a Next.js project with [Storyblok](https://www.storyblok.com). It is similar to the [Part 5](https://www.storyblok.com/tp/create-and-render-blog-articles-in-storyblok-and-next-js0 of [Next.js Ultimate Tutorial](https://www.storyblok.com/tp/nextjs-headless-cms-ultimate-tutorial) with Storyblok. 
+This repository is a Next.js project with [Storyblok](https://www.storyblok.com). It is similar to the [Part 5](https://www.storyblok.com/tp/create-and-render-blog-articles-in-storyblok-and-next-js) of [Next.js Ultimate Tutorial](https://www.storyblok.com/tp/nextjs-headless-cms-ultimate-tutorial) with Storyblok. 
 
 ## Requirements
 
