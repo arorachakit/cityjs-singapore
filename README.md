@@ -15,7 +15,7 @@ Find the slides [here](https://docs.google.com/presentation/d/1VO3zdIKhclwvBdjzu
 ### 1. Clone the repo
 
 ```sh
-  $ git clone https://github.com/storyblok/react-next-boilerplate.git
+  $ git clone https://github.com/arorachakit/cityjs-singapore.git
 ```
 
 ### 2. Install all dependecies 
